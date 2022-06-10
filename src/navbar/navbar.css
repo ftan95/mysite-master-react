@@ -10,6 +10,7 @@
   }
   .primary-nav {
     padding-right: 50px;
+    text-align: right;
   }
   .primary-nav li {
     display: inline-block;
@@ -26,6 +27,7 @@
     -o-transition: border 50ms linear;
     -ms-transition: border 50ms linear;
     transition: border 50ms linear;
+    text-decoration: none;
   }
   .primary-nav a:hover {
     text-decoration: none;

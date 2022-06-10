@@ -1,6 +1,6 @@
 .contact {
     background-color: #3a3a3a;
-    padding: 50px 150px;
+    padding: 75px 150px;
     color: white;
   }
   .contact input,
@@ -26,6 +26,7 @@
   .contact-form-body {
     margin-top: 50px;
     padding: 0px 6%;
+    text-align: left;
   }
   
   .email,

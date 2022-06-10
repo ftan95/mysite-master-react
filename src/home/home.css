@@ -21,6 +21,7 @@
   #person-description {
     font-size: 33pt;
   }
+
   .banner-buttons .btn-border,
   .submit-contact .btn-border,
   .projects .btn-border {
@@ -29,7 +30,7 @@
     margin-top: 40px;
     color: white;
     font-family: "Roboto", Helvetica, serif;
-    font-size: 16pt;
+    font-size: 1.5vw;
     border-radius: 0;
     border: 2px solid white;
     -webkit-transition: all 200ms ease-out;
@@ -139,6 +140,11 @@
   }
   .summary p {
     font-family: "Roboto", Helvetica, serif;
+    text-align: justify;
+  }
+
+  .summaryRow {
+    display: flex;
   }
 
   .resume {

@@ -14,7 +14,7 @@ function Navbar() {
 						</div>
 					</div>
 
-					<div className="col-xs-11 col-sm-11 col-md-11 col-lg-11 text-right">
+					<div className="col-xs-11 col-sm-11 col-md-11 col-lg-11">
 						<div className="primary-nav">
 							<ul>
 								<li><Link to="/">Home</Link></li>
